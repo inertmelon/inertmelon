@@ -1,0 +1,2 @@
+- hi, i suck at programming
+- inertmelon dc
